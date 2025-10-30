@@ -1,0 +1,42 @@
+---
+title: "Resume"
+output: html_document
+---
+
+# Education
+**Columbia University, Mailman School of Public Health** — New York, NY  
+*Master of Science (MS), Biostatistics*  
+Expected Graduation: 2027  
+
+**University of California, Davis** — Davis, CA  
+*Bachelor of Science (BS), Statistics*; *Bachelor of Arts (BA), Economics*  
+GPA 3.55 / 4.00  (Sept 2021 – Mar 2025)  
+
+**Selected Coursework:**  
+Applied Time Series Analysis • Regression Analysis • Nonparametric Statistics • Mathematical Statistics • Game Theory • Intermediate Micro/Macro Theory • Economic Development • Decision Making  
+
+---
+
+# Experience
+**Data Mining Engineer (Intern)** — *Kunlun Digital Intelligence Co., Ltd.*, Beijing, China  (Apr – Jun 2025)  
+- Developed a YOLOv8 + ByteTrack coal-mine conveyor-belt detection and tracking system.  
+- Processed raw video data using FFmpeg and OpenCV for high-quality training datasets.  
+- Optimized YOLOv8 with lightweight MobileNetV4 backbone and hierarchical PAN structure.  
+- Integrated NWD + CIoU loss for improved detection stability.  
+
+**Intern, Digital Growth Acceleration Program** — *LISC Chicago* (Remote, Jan – Mar 2025)  
+- Performed marketing-analytics and ROI analysis for local small-business partners.  
+- Compared Facebook vs TikTok engagement metrics to inform strategy.  
+
+---
+
+# Skills
+**Languages / Tools:**  R • Python • SQL • PySpark • Flink • Git / GitHub  
+**Methods:**  Regression Modeling • Machine Learning • Survival Analysis • Data Visualization  
+**Other:**  LaTeX • R Markdown • Tableau • VS Code • IntelliJ IDEA  
+
+---
+
+# Contact
+📧 cm4671@cumc.columbia.edu  
+🔗 [GitHub – Chenchen-7](https://github.com/Chenchen-7)
