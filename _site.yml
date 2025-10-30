@@ -6,11 +6,13 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
+    - text: "Dashboard"
+      href: dashboard.html
   right:
     - icon: fa-github
       href: "https://github.com/Chenchen-7"
     - icon: fa-envelope
-      href: "mailto:cm4671@columbia.edu"
+      href: "mailto:cm4671@cumc.columbia.edu"
 output_dir: "."
 output:
   html_document:
