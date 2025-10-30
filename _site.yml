@@ -14,7 +14,4 @@ navbar:
     - icon: fa-envelope
       href: "mailto:cm4671@cumc.columbia.edu"
 output_dir: "."
-output:
-  html_document:
-    theme: cerulean
-    toc: false
+
